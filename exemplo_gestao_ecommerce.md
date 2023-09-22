@@ -9,6 +9,7 @@
 
 ## Tarefas e Artefatos:
 
+
 ### Marco: Concepção
 
 1. **Definir a visão do aplicativo de e-commerce**
