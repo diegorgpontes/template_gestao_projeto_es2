@@ -73,4 +73,8 @@ O Processo Unificado é um framework de desenvolvimento de software iterativo e 
 
 ---
 
-Este documento fornece uma visão geral das fases, disciplinas e artefatos do Processo Unificado. Para cada projeto, é importante adaptar e detalhar conforme as necessidades específicas.
+##### Exemplos:
+
+* **Exemplo de tarefas para o projects:** <exemplo_tarefas_projects.md>
+* **Exemplo de gestão de projeto de um ecommerce:** <exemplo_gestao_ecommerce.md>
+
