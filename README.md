@@ -1,5 +1,3 @@
-<style>body {text-align: justify}</style>
-
 # Processo Unificado (PU)
 
 O Processo Unificado é um framework de desenvolvimento de software iterativo e incremental. Ele é dividido em fases e disciplinas, e ao longo do processo, diversos artefatos são gerados.
