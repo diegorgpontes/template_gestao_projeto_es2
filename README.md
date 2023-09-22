@@ -75,6 +75,6 @@ O Processo Unificado é um framework de desenvolvimento de software iterativo e 
 
 ##### Exemplos:
 
-* **Exemplo de tarefas para o projects:** <exemplo_tarefas_projects.md>
-* **Exemplo de gestão de projeto de um ecommerce:** <exemplo_gestao_ecommerce.md>
+* **Exemplo de tarefas para o projects:** [](exemplo_tarefas_projects.md)
+* **Exemplo de gestão de projeto de um ecommerce:** [](exemplo_gestao_ecommerce.md)
 
